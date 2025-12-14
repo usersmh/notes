@@ -1,4 +1,4 @@
-# technical drafting refernces
+# technical drafting references
 
 llm: https://grok.com/share/c2hhcmQtMw_56760674-f9a2-4615-85ad-5e75ae4d3428
 
